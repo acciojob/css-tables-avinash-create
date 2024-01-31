@@ -2,7 +2,7 @@
 th, td{
 	border:1px solid #ccc;
 	border-radius: 5px;
-	padding:.5rem;
+	padding:0.5rem;
 }
 .odd{
 	background-color:#f2f2f2;
